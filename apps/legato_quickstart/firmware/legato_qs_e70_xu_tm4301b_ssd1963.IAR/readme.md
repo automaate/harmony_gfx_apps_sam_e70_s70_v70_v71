@@ -24,7 +24,7 @@ User touch input on the display panel is received thru the PCAP capacitive touch
 Creating the Project Graph
 --------------------------
 
-<img src="legato_qs_e70_xu_tm4301b_ssd1963_pg.png" width="480" height="272" />
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_ssd1963_pg.png)
 
 The Project Graph diagram shows the Harmony components that are included in this application. Lines between components are drawn to satisfy components that depend on a capability that another component provides.
 
@@ -48,16 +48,17 @@ Configuring the Hardware
 
 The final setup should be: 
 
-<img src="legato_qs_e70_xu_tm4301b_ssd1963_conf1.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_ssd1963_conf1.png)
 
 Running the Demonstration
 -------------------------
 
 When power-on is successful, the demonstration will display a similar menu to that shown in the following figure (different configurations may have slight variation in the screen aspect ratio): 
 
-<img src="legato_qs_e70_xu_tm4301b_run1.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_run1.png)
 
 When Make changes. Generate. Run. is touched, the button will toggle with each individual touch.
 
-<img src="legato_qs_e70_xu_tm4301b_run2.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_run2.png)
+
 * * * * *

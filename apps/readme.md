@@ -4,14 +4,14 @@ has_children: true
 has_toc: false
 nav_order: 2
 
-family: SAMA5D2
+family: SAME70
 market:
   - graphics
 ---
 
 # Example Applications
 
-The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the SAM A5D2 Family.
+The following applications are provided to demonstrate both basic and advanced Graphics capabilities of the SAM E70 Family.
 
 ## Legato Library Examples 
 

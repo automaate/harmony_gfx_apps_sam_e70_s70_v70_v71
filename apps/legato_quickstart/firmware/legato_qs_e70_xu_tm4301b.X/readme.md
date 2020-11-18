@@ -24,7 +24,7 @@ User touch input on the display panel is received thru the PCAP capacitive touch
 Creating the Project Graph
 --------------------------
 
-<img src="legato_qs_e70_xu_tm4301b_pg.png" width="480" height="272" />
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_pg.png)
 
 The Project Graph diagram shows the Harmony components that are included in this application. Lines between components are drawn to satisfy components that depend on a capability that another component provides.
 
@@ -48,15 +48,15 @@ Configuring the Hardware
 
 The final setup should be: 
 
-<img src="legato_qs_e70_xu_tm4301b_conf1.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_conf1.png)
 
 Configuring the 4.3\" WQVGA Display requires disconnecting the ribbon cable that connects the display to the interposer board. 
 
-<img src="legato_qs_e70_xu_tm4301b_conf2.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_conf2.png)
 
 First, release the ribbon cable from the interposer board. Next, release the black clamp on the E70\'s J2 connector and turn the display over. Finally, insert the ribbon cable into J2 and close the clamp
 
-<img src="legato_qs_e70_xu_tm4301b_conf3.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_conf3.png)
 
 The board and display are powered by a Micro B USB A cable from PC to the **Debug USB** port on the E70 board. The ICD4 Debugger and ICD4/PICKit4 Adapter Board are connected as shown above.
 
@@ -65,9 +65,10 @@ Running the Demonstration
 
 When power-on is successful, the demonstration will display a similar menu to that shown in the following figure (different configurations may have slight variation in the screen aspect ratio): 
 
-<img src="legato_qs_e70_xu_tm4301b_run1.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_run1.png)
 
 When Make changes. Generate. Run. is touched, the button will toggle with each individual touch.
 
-<img src="legato_qs_e70_xu_tm4301b_run2.png"/>
+![](../../../../docs/html/legato_qs_e70_xu_tm4301b_run2.png)
+
 * * * * *
